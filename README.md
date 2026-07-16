@@ -1,11 +1,29 @@
-Chessium includes Free chess platform with:
-- Multiplayer (in multiplayer version only
-- Analysis
-- Evaluation Bar
-- Bots (in singleplayer version only)
-- No subscriptions
-- No ads
-- Completly free
-- For .exe no other downloads needed!!!
-For all .py files download Python newest at https://python.org/downloads/ and download all libraries via terminal pip install pygame-ce python-chess.
-To check if multiplayer servers are online https://sites.google.com/view/chessium-py
+# Chessium
+
+Free chess platform with:
+
+✅ Multiplayer (Multiplayer version)
+✅ Analysis
+✅ Evaluation Bar
+✅ Bots (Singleplayer version)
+✅ No subscriptions
+✅ No ads
+✅ Completely free
+
+## Download
+
+Download the latest release from the Releases section.
+
+## Screenshots
+
+(In progress)
+
+## Requirements (Source Code Only)
+
+Python 3.x
+
+pip install pygame-ce python-chess
+
+## Multiplayer Server Status
+
+https://sites.google.com/view/chessium-py
