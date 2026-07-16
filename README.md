@@ -2,13 +2,13 @@
 
 Free chess platform with:
 
-✅ Multiplayer (Multiplayer version)
-✅ Analysis
-✅ Evaluation Bar
-✅ Bots (Singleplayer version)
-✅ No subscriptions
-✅ No ads
-✅ Completely free
+- Multiplayer (Multiplayer version)
+- Analysis
+- Evaluation Bar
+- Bots (Singleplayer version)
+-  No subscriptions
+-  No ads
+-  Completely free
 
 ## Download
 
